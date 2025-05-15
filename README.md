@@ -55,6 +55,5 @@ Saves the cleaned and enriched dataset as `transformed_covid_data.csv` and print
    pip install -r requirements.txt
 =======
 # data-pipeline-project
-Real time data pipeline using Kafka, Spark and PostgreSQL
 >>>>>>> c38b1c1d992a0e7c358f55ac4446d6cd97f5fd14
 
