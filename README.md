@@ -52,6 +52,4 @@ Saves the cleaned and enriched dataset as `transformed_covid_data.csv` and print
 
    ```bash
    pip install -r requirements.txt
-=======
-# data-pipeline-project
 
