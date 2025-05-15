@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COVID-19 ETL Data Pipeline Project
 
 This project is to build a basic **ETL (Extract, Transform, Load)** pipeline built with Python. It retrieves **real-time COVID-19 data** from [Our World in Data](https://ourworldindata.org/coronavirus-source-data), processes and transforms key indicators, and generates a cleaned dataset ready for analysis or visualization.
@@ -55,5 +54,4 @@ Saves the cleaned and enriched dataset as `transformed_covid_data.csv` and print
    pip install -r requirements.txt
 =======
 # data-pipeline-project
->>>>>>> c38b1c1d992a0e7c358f55ac4446d6cd97f5fd14
 
